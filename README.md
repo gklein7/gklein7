@@ -107,14 +107,6 @@ Gosto de criar sistemas que:
 
 ---
 
-## 📊 GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielklein2014&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielklein2014&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Klein-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-giovani-klein)
