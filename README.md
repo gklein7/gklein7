@@ -107,18 +107,6 @@ Gosto de criar sistemas que:
 
 ---
 
-## 📚 Atualmente estudando
-
-- C# e ASP.NET Core
-- Clean Architecture
-- Entity Framework Core
-- CQRS
-- DDD
-- Boas práticas de arquitetura de software
-- Desenvolvimento de aplicações escaláveis
-
----
-
 ## 📊 GitHub Stats
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielklein2014&show_icons=true&theme=tokyonight)
@@ -130,7 +118,7 @@ Gosto de criar sistemas que:
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Klein-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-giovani-klein)
-[![GitHub](https://img.shields.io/badge/GitHub-gabrielklein2014-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gklein7)
+[![GitHub](https://img.shields.io/badge/GitHub-gklein7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gklein7)
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgiovaniklein@gmail.com)
 
 ---
